@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="couriercreateacc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="courierlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="custcreateacc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="custlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="editprof.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mapscourierside.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="statecouriersarawak.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="statecourierkelantan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="statecouriersabah.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="statecourierkedah.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="homescreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="maps.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="options.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="statecourierperak.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="statecouriertganu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="statecourierpahang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="statecourierselangor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="statecouriern9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="statecourierjohor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="wallet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mainstart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="signupchoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loginchoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
