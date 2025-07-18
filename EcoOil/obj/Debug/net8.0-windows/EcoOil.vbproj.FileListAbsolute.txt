@@ -1,0 +1,86 @@
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.vbproj.AssemblyReference.cache
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.couriercreateacc.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.courierlogin.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.custcreateacc.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.custlogin.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.editprof.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.homescreen.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.loginchoice.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.mainstart.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.maps.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.Resources.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.Options.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.signupchoice.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.wallet.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.vbproj.GenerateResource.cache
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.AssemblyInfoInputs.cache
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.AssemblyInfo.vb
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.vbproj.CoreCompileInputs.cache
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\bin\Debug\net8.0-windows\EcoOil.exe
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\bin\Debug\net8.0-windows\EcoOil.deps.json
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\bin\Debug\net8.0-windows\EcoOil.runtimeconfig.json
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\bin\Debug\net8.0-windows\EcoOil.dll
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\bin\Debug\net8.0-windows\EcoOil.pdb
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.vbproj.Up2Date
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.dll
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\refint\EcoOil.dll
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.pdb
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.genruntimeconfig.cache
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\ref\EcoOil.dll
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.mapscourierside.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.statecourierjohor.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.statecourierkedah.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.statecourierkelantan.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.statecouriern9.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.statecourierpahang.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.statecourierperak.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.statecouriersabah.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.statecouriersarawak.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.statecourierselangor.resources
+C:\Users\Najmin Faiz\Desktop\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.statecouriertganu.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\bin\Debug\net8.0-windows\EcoOil.exe
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\bin\Debug\net8.0-windows\EcoOil.deps.json
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\bin\Debug\net8.0-windows\EcoOil.runtimeconfig.json
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\bin\Debug\net8.0-windows\EcoOil.dll
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\bin\Debug\net8.0-windows\EcoOil.pdb
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.couriercreateacc.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.courierlogin.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.custcreateacc.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.custlogin.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.editprof.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.homescreen.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.loginchoice.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.mainstart.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.maps.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.mapscourierside.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.Resources.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.Options.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.signupchoice.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.statecourierjohor.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.statecourierkedah.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.statecourierkelantan.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.statecouriern9.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.statecourierpahang.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.statecourierperak.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.statecouriersabah.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.statecouriersarawak.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.statecourierselangor.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.statecouriertganu.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.wallet.resources
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.AssemblyInfo.vb
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.vbproj.Up2Date
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.dll
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\refint\EcoOil.dll
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.pdb
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\EcoOil.genruntimeconfig.cache
+C:\Users\User\Desktop\pastsem\foundation sem 3\omc\EcoOil\EcoOil\obj\Debug\net8.0-windows\ref\EcoOil.dll
